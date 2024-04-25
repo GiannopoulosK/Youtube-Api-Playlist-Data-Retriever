@@ -16,15 +16,15 @@
 
 ``` cd Youtube-Api-Playlist-Data-Retriever ```
 
-4. **Replace "YOUR_API_KEY" in config.py with your actual YouTube API key.**
+4. **Replace "YOUR_API_KEY" in main.py with your actual YouTube API key.**
 
-5. **Run the main.py script:**
+5. **Replace "YOUR_PLAYLIST_ID" in main.py with the Playlist ID you want the data from.**
+
+6. **Run the main.py script:**
 
 ``` python main.py ```
 
-6. **Enter the URL of the YouTube playlist you want to retrieve data from when prompted.**
-
-7. **The script will fetch the data and display it as a Pandas DataFrame.**
+7. **The script will fetch the data and display it as a csv_file.(Optinally, change the last line of code to store it as you like.)**
 
 ## Requirements
 - Python 3.x
