@@ -10,7 +10,7 @@
 
 2. ### Clone this repository to your local machine:
 
-### *git clone https://github.com/your_username/https://github.com/GiannopoulosK/Youtube-Api-Playlist-Data-Retriever*
+### ``` git clone https://github.com/GiannopoulosK/Youtube-Api-Playlist-Data-Retriever ```
 
 3. ### Navigate to the project directory:
 
