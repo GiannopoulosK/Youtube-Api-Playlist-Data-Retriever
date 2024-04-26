@@ -33,8 +33,8 @@
 
 ## Helper
 
-### To get your playlist ID, all you need to do is go into the playlist and, on the url, copy and paste the part after 'list='. It always starts with PL
+### To get your playlist ID, all you need to do is go into the playlist and, on the url, copy and paste the part after 'list='. It always starts with PL.
 
-#### For example, in this url: 
+### For example, in this url: 
 #### https://www.youtube.com/watch?v=f9j8nhMNYO4&list=PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
-#### the playlist ID is PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
+### the playlist ID is PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
