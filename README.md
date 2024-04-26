@@ -24,9 +24,17 @@
 
 ``` python main.py ```
 
-7. **The script will fetch the data and display it as a csv_file.(Optinally, change the last line of code to store it as you like.)**
+7. **The script will fetch the data and store it as a csv_file.(Optinally, change the last line of code to store it as you like.)**
 
 ## Requirements
 - Python 3.x
 - pandas
 - google-api-python-client
+
+## Helper
+
+### To get your playlist ID, all you need to do is go into the playlist and, on the url, copy and paste the part after 'list='. It always starts with PL
+
+#### For example, in this url: 
+#### https://www.youtube.com/watch?v=f9j8nhMNYO4&list=PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
+#### the playlist ID is PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
