@@ -18,13 +18,13 @@
 
 4. **Replace "YOUR_API_KEY" in main.py with your actual YouTube API key.**
 
-5. **Replace "YOUR_PLAYLIST_ID" in main.py with the Playlist ID you want the data from.**
+5. **Replace "YOUR_PLAYLIST_ID" in main.py with the Playlist ID you want the data from.(See helper part if you need assistance)**
 
 6. **Run the main.py script:**
 
 ``` python main.py ```
 
-7. **The script will fetch the data and store it as a csv_file.(Optinally, change the last line of code to store it as you like.)**
+7. **The script will fetch the data and store it as a csv_file.(Optinally, change the last line of code to store it as you'd like.)**
 
 ## Requirements
 - Python 3.x
@@ -35,5 +35,9 @@
 
 ### To get your playlist ID, all you need to do is go into the playlist and, on the url, copy and paste the part after 'list='. It always starts with PL.
 
-### For example, in the following url, the playlist ID is PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS: 
+### For example, in the following url, the playlist ID is PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS.
 #### https://www.youtube.com/watch?v=f9j8nhMNYO4&list=PLfoNZDHitwjX-oU5YVAkfuXkALZqempRS
+
+## Output
+
+### To see how this tool works, check out the example_usage.ipynb file
