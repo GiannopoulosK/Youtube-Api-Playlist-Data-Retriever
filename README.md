@@ -31,6 +31,10 @@
 - pandas
 - google-api-python-client
 
+## Tokens
+
+### This tool uses youtube API tokens. The daily limit for the free version of this API is 10000 tokens. This tool uses 4 tokens per 50 videos.
+
 ## Helper
 
 ### To get your playlist ID, all you need to do is go into the playlist and, on the url, copy and paste the part after 'list='. It always starts with PL.
@@ -40,4 +44,4 @@
 
 ## Output
 
-### To see how this tool works, check out the example_usage.ipynb file
+### To see how this tool works, check out the example_usage.ipynb file.
